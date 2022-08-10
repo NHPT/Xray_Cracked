@@ -1,0 +1,2 @@
+xray_linux_amd64 filter=lfs diff=lfs merge=lfs -text
+xray_windows_amd64.exe filter=lfs diff=lfs merge=lfs -text
