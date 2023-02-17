@@ -20,7 +20,7 @@ Parameter x
 
 MAC OS cannot run Solution:
 
-1. Execute the uname - a command to check whether the operating system architecture conforms to the Xray execute.
+1. Execute the `uname -a` command to check whether the operating system architecture conforms to the Xray execute.
 
 2. Set permission in "Security and Privacy" ->"General".
 
