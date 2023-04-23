@@ -11,9 +11,17 @@ Patch two key jumps (JL and JNZ) in the certificate verification function to byp
 ## Result
 
 Listen
+1.9.8  
+![](https://github.com/NHPT/Xray1.9.1/blob/main/img/1.9.8.png)
+![](https://github.com/NHPT/Xray1.9.1/blob/main/img/1.9.8_2.png)
+1.9.1  
 ![](https://github.com/NHPT/Xray1.9.1/blob/main/img/listen.png)
 
 Parameter x
+1.9.8  
+![](https://github.com/NHPT/Xray1.9.1/blob/main/img/1.9.8_3.png)
+![](https://github.com/NHPT/Xray1.9.1/blob/main/img/1.9.8_4.png)
+1.9.1  
 ![](https://github.com/NHPT/Xray1.9.1/blob/main/img/port.png)
 
 ## Issues 
