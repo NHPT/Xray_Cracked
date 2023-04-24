@@ -38,6 +38,6 @@ MAC OS cannot run Solution:
 
 3. Set permission in "Security and Privacy" ->"General".
 
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/disp1.png)
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/set.png)
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/run.png)
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/disp1.png)  
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/set.png)  
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/run.png)  
