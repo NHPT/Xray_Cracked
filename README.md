@@ -32,9 +32,12 @@ MAC OS cannot run Solution:
 
 1. Execute the `uname -a` command to check whether the operating system architecture conforms to the Xray execute.
 
-2. Set permission in "Security and Privacy" ->"General".
+2. Execute the `chmod 755 xray_darwin_amd64` command to add execution permission to the program xray_darwin_amd64. Otherwise, the following information is displayed:
 
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/1.png)
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/2.jpg)
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/3.jpg)
-![](https://github.com/NHPT/Xray_Cracked/blob/main/img/4.jpg)
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/unchmod.png)
+
+3. Set permission in "Security and Privacy" ->"General".
+
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/disp1.png)
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/set.jpg)
+![](https://github.com/NHPT/Xray_Cracked/blob/main/img/run.jpg)
