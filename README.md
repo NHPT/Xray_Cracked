@@ -28,6 +28,8 @@ Patch two key jumps (JL and JNZ) in the certificate verification function to byp
 
 ## Issues 
 
+"segmentation fault" Please use `upx -d xray...`
+
 MAC OS cannot run Solution:
 
 1. Execute the `uname -a` command to check whether the operating system architecture conforms to the Xray execute.
